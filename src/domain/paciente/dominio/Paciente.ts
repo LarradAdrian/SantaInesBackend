@@ -99,5 +99,6 @@ public setId(id: idPaciente): void {
     this.id = id;
 }
 //hola 
+//hola 2
 
 }
